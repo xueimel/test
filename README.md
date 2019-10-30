@@ -12,7 +12,7 @@ Last Name       | First Name      | GitHub User Name     | Scrum Role
 TBD             | TBD             | TBD                  | TBDDeveloper
 TBD             | TBD             | TBD                  | TBDScrum Master
 TBD             | TBD             | TBD                  | TBDProduct Owner
-TBD             | TBD             | TBD                  | TBD
+Tupper             | Kyle             | krtupper                  | Developer
 TBD             | TBD             | TBD                  | TBD
 
 ## Team Velocity:
