@@ -25,7 +25,7 @@ Sprint | Estimated Velocity | Actual Velocity
 4      | TBD                | TBD
 
 ## Scrum Linter Reports:
-http://cs.boisestate.edu/~bdit/ScrumLinter/CS471F19ScrumLinterReports/CS471-F19-Team10_w5DZEaQljEzU6m646sAVChqQMlpbNC5ebDjzLeTf/ScrumLinterReport_CS471-F19-Team10_Sprint0_20191030110054.html
+http://cs.boisestate.edu/~bdit/ScrumLinter/CS471F19ScrumLinterReports/CS471-F19-Team10_w5DZEaQljEzU6m646sAVChqQMlpbNC5ebDjzLeTf/
 
 ## Project Grade Feedback:
 https://docs.google.com/spreadsheets/d/1T0c9p31yAqKpArjZd8IbvNHsH8PorvyhQu0Eij0zkMw/edit#gid=491634789This Google spreadsheet:
