@@ -1,16 +1,16 @@
-## Team Name: TBD
+## Team Name: Team 10
 
-## Project Name: TBD
+## Project Name: Learn Student Names
 
 ## Project Description:
-TBD (e.g., build an iOS app for TBD)
+Build an flashcard application to aid in remembering student names.
 
 ## Team Members:
 
 Last Name       | First Name      | GitHub User Name     | Scrum Role
 --------------- | --------------- | -------------------- | ---------------
 Lemieux             | Landon             | xueimel                  | TBDDeveloper
-TBD             | TBD             | TBD                  | TBDScrum Master
+Purves             | Tanner             | purvesta                  | Developer
 TBD             | TBD             | TBD                  | TBDProduct Owner
 Tupper             | Kyle             | krtupper                  | Developer
 TBD             | TBD             | TBD                  | TBD
