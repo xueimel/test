@@ -9,10 +9,11 @@ Build an flashcard application to aid in remembering student names.
 
 Last Name       | First Name      | GitHub User Name     | Scrum Role
 --------------- | --------------- | -------------------- | ---------------
-Lemieux             | Landon             | xueimel                  | ScrumMaster
+Lemieux             | Landon             | xueimel                  | TBDDeveloper
 Purves             | Tanner             | purvesta                  | Developer
-Rastgar             | Saman             | allsamgit                  | Product Owner
+TBD             | TBD             | TBD                  | TBDProduct Owner
 Tupper             | Kyle             | krtupper                  | Developer
+TBD             | TBD             | TBD                  | TBD
 
 ## Team Velocity:
 
@@ -29,7 +30,9 @@ Access the [Scrum Linter Report](http://cs.boisestate.edu/~bdit/ScrumLinter/CS47
 - Aim to obtain :thumbsup: in all the sections of the linter report
 
 ## Project Grade Feedback:
-See the [grading rubric, team project grade and instructor feedback](https://docs.google.com/spreadsheets/d/1T0c9p31yAqKpArjZd8IbvNHsH8PorvyhQu0Eij0zkMw/edit?usp=sharing). This Google spreadsheet:
+
+See the [grading rubric, team project grade and instructor feedback]
+https://docs.google.com/spreadsheets/d/1T0c9p31yAqKpArjZd8IbvNHsH8PorvyhQu0Eij0zkMw/edit#gid=491634789This Google spreadsheet:
 - is shared **only** with the team members
 - will be updated after each major project milestone (e.g., initial planning, sprint)
 
