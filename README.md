@@ -9,9 +9,9 @@ Build an flashcard application to aid in remembering student names.
 
 Last Name       | First Name      | GitHub User Name     | Scrum Role
 --------------- | --------------- | -------------------- | ---------------
-Lemieux             | Landon             | xueimel                  | TBDDeveloper
+Lemieux             | Landon             | xueimel                  | ScrumMaster
 Purves             | Tanner             | purvesta                  | Developer
-TBD             | TBD             | TBD                  | TBDProduct Owner
+TBD             | TBD             | TBD                  | Product Owner
 Tupper             | Kyle             | krtupper                  | Developer
 TBD             | TBD             | TBD                  | TBD
 
@@ -25,9 +25,7 @@ Sprint | Estimated Velocity | Actual Velocity
 4      | TBD                | TBD
 
 ## Scrum Linter Reports:
-Access the [Scrum Linter Report](http://cs.boisestate.edu/~bdit/ScrumLinter/CS471F19ScrumLinterReports/CS471-F19-Team10_w5DZEaQljEzU6m646sAVChqQMlpbNC5ebDjzLeTf/). A new report will be automatically generated every few hours.
-- Fix all inconsistencies, which are indicated in the report with :heavy_exclamation_mark:
-- Aim to obtain :thumbsup: in all the sections of the linter report
+http://cs.boisestate.edu/~bdit/ScrumLinter/CS471F19ScrumLinterReports/CS471-F19-Team10_w5DZEaQljEzU6m646sAVChqQMlpbNC5ebDjzLeTf/ScrumLinterReport_CS471-F19-Team10_Sprint0_20191030110054.html
 
 ## Project Grade Feedback:
 
