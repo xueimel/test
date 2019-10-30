@@ -28,11 +28,8 @@ Sprint | Estimated Velocity | Actual Velocity
 http://cs.boisestate.edu/~bdit/ScrumLinter/CS471F19ScrumLinterReports/CS471-F19-Team10_w5DZEaQljEzU6m646sAVChqQMlpbNC5ebDjzLeTf/ScrumLinterReport_CS471-F19-Team10_Sprint0_20191030110054.html
 
 ## Project Grade Feedback:
-
-See the [grading rubric, team project grade and instructor feedback]
 https://docs.google.com/spreadsheets/d/1T0c9p31yAqKpArjZd8IbvNHsH8PorvyhQu0Eij0zkMw/edit#gid=491634789This Google spreadsheet:
-- is shared **only** with the team members
-- will be updated after each major project milestone (e.g., initial planning, sprint)
+
 
 ## [Optional] Miscellaneous information
 TBD: The last part of the `README.md` file is optional, and the team can remove it or use it as they see fit.
