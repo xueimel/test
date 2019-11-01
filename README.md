@@ -9,7 +9,7 @@ Build an flashcard application to aid in remembering student names.
 
 Last Name       | First Name      | GitHub User Name     | Scrum Role
 --------------- | --------------- | -------------------- | ---------------
-Lemieux             | Landon             | xueimel                  | ScrumMaster
+Lemieux             | Landon             | xueimel                  | Scrum Master
 Purves             | Tanner             | purvesta                  | Developer
 Rastgar             | Saman             | allsamgit                  | Product Owner
 Tupper             | Kyle             | krtupper                  | Developer
