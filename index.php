@@ -1,7 +1,7 @@
 <?php
 require_once('inc/common.php');
-require_once('header.php');
 print_header();
+require_once('header.php');
 ?>
         <h1>Welcome To Our Flash Card App!</h1>
     <!--
