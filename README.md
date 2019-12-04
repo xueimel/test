@@ -19,8 +19,8 @@ Tupper             | Kyle             | krtupper                  | Developer
 Sprint | Estimated Velocity | Actual Velocity
 ------ | ------------------ | ---------------
 1      | 13                | 40
-2      | 40              | TBD
-3      | TBD                | TBD
+2      | 40              | 35
+3      | 35               | TBD
 4      | TBD                | TBD
 
 ## Scrum Linter Reports:
