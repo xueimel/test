@@ -10,5 +10,7 @@ if (!isset($_SESSION['loggedIn'])) {
 }
 
 function print_header(){
-    echo 'Welcome, ' . $_SESSION['uname'];
+    if(isset($_SESSION['uname'])){
+        echo 'Welcome, ' . $_SESSION['uname'];
+    }
 }
