@@ -46,7 +46,7 @@ if ($uploadOk == 0) {
 // if everything is ok, try to upload file
 } else {
     if (move_uploaded_file($_FILES["file_to_upload"]["tmp_name"], $target_file)) {
-        $image =file_get_contents("uploads\\".$_FILES['file_to_upload']['name']);
+        $image =file_get_contents("uploads/".$_FILES['file_to_upload']['name']);
         $dao->insert_new_student($_POST['class_name'], $_POST['student_name'], $image);
         $_SESSION['upload_message'] = $_SESSION['upload_message'] ."<br>The file ". basename( $_FILES["file_to_upload"]["name"]). " has been uploaded.";
         header("Location: createNewClass.php");

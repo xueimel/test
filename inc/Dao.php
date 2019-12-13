@@ -90,10 +90,10 @@
 
         public function fetch_students($classid){
             $conn = $this->get_connection();
-            $sql = "SELECT img FROM student WHERE class_id = ?";
+            $sql = "SELECT img, student_name FROM student WHERE class_id = ?";
             $stmt = $conn->prepare($sql);
             $stmt->execute([$classid]);
-            $result = $stmt->fetchAll(PDO::FETCH_COLUMN, 0);
+            $result = $stmt->fetchAll();
             return $result;
         }
     }

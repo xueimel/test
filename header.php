@@ -15,7 +15,7 @@
 	<body>
 	<div class="topnav">
   <a class="active" href="./index.php">Home</a>
-  <a href="./index.php">Choose Existing Class</a>
+  <a href="./quiz.php">Take Quiz</a>
   <a href="./createNewClass.php">Add Student</a>
   <a id="login"  onclick="document.getElementById('id01').style.display='block'">Login</a>
 
