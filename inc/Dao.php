@@ -33,9 +33,37 @@
             //input query
             $stmt = $conn->prepare($sql);
             $stmt->execute();
-            while ($row = $stmt->fetch()) {
-                echo $row['fname'] . "\n";
-            }
+        }
+
+        public function class_exists($class_name){
+            $conn = $this->get_connection();
+            $sql = "select id from classes where class_name = ?";
+            $stmt = $conn->prepare($sql);
+            $stmt->execute([$class_name]);
+            return $stmt->fetch();
+        }
+
+        public function insert_class($class_name){
+            $conn = $this->get_connection();
+            //write query
+            $sql = "insert into classes (class_name, user_id) values (?, ?)";
+            //input query
+            $stmt = $conn->prepare($sql);
+            $stmt->execute([$class_name, 1]);
+        }
+
+        public function insert_new_student($class_name, $student_name, $image){
+            $conn = $this->get_connection();
+            //write query
+            $sql = "select id from classes where class_name = ?";
+            $stmt = $conn->prepare($sql);
+            $stmt->execute([$class_name]);
+            $class_id = $stmt->fetch()[0];
+
+            $sql = "insert into student (class_id, student_name, img) values (?, ?, ?)";
+            //input query
+            $stmt = $conn->prepare($sql);
+            $stmt->execute([$class_id, $student_name, base64_encode($image)]);
         }
 
         public function check_username_exists($username)
