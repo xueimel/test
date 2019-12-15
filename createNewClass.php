@@ -31,4 +31,16 @@ if(isset($_SESSION['upload_message'])) {
     </form>
     </form>
     </body>
+	<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+</style>
+
 </html>
